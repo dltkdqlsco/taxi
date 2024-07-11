@@ -16,4 +16,4 @@ public class Person {
         System.out.println(name +"님의 남은 돈은 " + money + "원 입니다.");
     }
 }
-/* pull requests*/
+/* pull requests one more time*/
